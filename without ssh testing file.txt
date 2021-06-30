@@ -1,0 +1,3 @@
+
+hi all
+this is a test file for testing with out ssh can we connect to jenkins and git or not 
